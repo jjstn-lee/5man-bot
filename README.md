@@ -59,3 +59,4 @@ Note that a Dockerfile and GitHub Action workflow is also included. Tweaking the
 1. Auto-expiration on sessions based on the latest time given or after _n_ number of hours.
 2. Implementation for multiple sessions.
 3. Implementation for multiple games other than League of Legends.
+4. Utilize 'dateparser' from Python to allow for natural language time inputs.
