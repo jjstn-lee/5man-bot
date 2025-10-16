@@ -1,7 +1,7 @@
 # FiveStack Bot
 
-** A lightweight Discord bot that helps users plan and organize 5-man gaming parties for cooperative play! **
-** [To install, click here](https://discord.com/oauth2/authorize?client_id=1399290217659105331) **
+A lightweight Discord bot that helps users plan and organize 5-man gaming parties for cooperative play!
+To install, click the link [here!](https://discord.com/oauth2/authorize?client_id=1399290217659105331)
 
 ## Features
 
